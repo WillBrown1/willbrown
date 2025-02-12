@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/willbrown/static/css/main.c7827a22.css",
-    "main.js": "/willbrown/static/js/main.05838355.js",
+    "main.css": "/willbrown/static/css/main.9cc3098a.css",
+    "main.js": "/willbrown/static/js/main.23d0c6f3.js",
     "static/js/787.fb771931.chunk.js": "/willbrown/static/js/787.fb771931.chunk.js",
-    "static/media/IMG_3031.jpg": "/willbrown/static/media/IMG_3031.4ac7ce994f5aec98508e.jpg",
     "static/media/color-sharp.png": "/willbrown/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/willbrown/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/header-img.svg": "/willbrown/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/face.png": "/willbrown/static/media/face.d6fe222d5c7d2a6a576c.png",
     "static/media/CentraNo2-Bold.ttf": "/willbrown/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/willbrown/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/willbrown/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -28,12 +27,12 @@
     "static/media/arrow2.svg": "/willbrown/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/willbrown/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/willbrown/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.c7827a22.css.map": "/willbrown/static/css/main.c7827a22.css.map",
-    "main.05838355.js.map": "/willbrown/static/js/main.05838355.js.map",
+    "main.9cc3098a.css.map": "/willbrown/static/css/main.9cc3098a.css.map",
+    "main.23d0c6f3.js.map": "/willbrown/static/js/main.23d0c6f3.js.map",
     "787.fb771931.chunk.js.map": "/willbrown/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7827a22.css",
-    "static/js/main.05838355.js"
+    "static/css/main.9cc3098a.css",
+    "static/js/main.23d0c6f3.js"
   ]
 }
