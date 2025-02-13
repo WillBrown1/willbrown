@@ -16,50 +16,50 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="2025 - present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Undergraduate Teaching Assistant</h3>
+            <h4 className="vertical-timeline-element-subtitle">Clemson University</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+            Instructing lab, holding office hours, grading assignments, and creating autograders for an undergraduate computer science course.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
+            date="2024 - 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title"> Software Engineering Co-Op</h3>
+            <h4 className="vertical-timeline-element-subtitle">BOSCH</h4>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Supported BOSCH's LTCC Production lines by developing cutting-edge production applications in a variety of different frameworks and tech stacks.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - 2021"
+            date="2023"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Computer Science Student</h3>
+            <h4 className="vertical-timeline-element-subtitle">Clemson University</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Honors student, Clemson Guitar Club Founder and President, part-time worker.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2020"
+            date="2022"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h3 className="vertical-timeline-element-title">AI Scholar</h3>
+            <h4 className="vertical-timeline-element-subtitle">Inspirit AI</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              Worked with students from Brown and Stanford University to develop a facial emotion detection algorithm using a TensorFlow neural network.
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

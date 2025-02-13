@@ -1,5 +1,5 @@
 import React from "react";
-import mock01 from '../assets/images/mock01.png';
+import mock01 from '../assets/images/projectWebsite.png';
 import mock02 from '../assets/images/mock02.png';
 import mock03 from '../assets/images/mock03.png';
 import mock04 from '../assets/images/mock04.png';
@@ -62,9 +62,9 @@ function Project() {
                 <p>Created an interactive CSV table generator with Java, Handlebars, and LESS. This project helps transfer students to quickly identify eligible credits.</p>
             </div>
             <div className="project">
-                <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><h2>Submeowrine</h2></a>
-                <p>Developed and released an Android mobile application using Java and Android Studio that runs a 2D shooting game.</p>
+                <a href="https://Willbrown1.github.io/willbrown" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://Willbrown1.github.io/willbrown" target="_blank" rel="noreferrer"><h2>Web Portfolio</h2></a>
+                <p>Developed and published a personal portfolio website using React with Typescript and custom styling.</p>
             </div>
         </div>
     </div>

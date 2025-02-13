@@ -1,44 +1,41 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faDocker, faPython } from '@fortawesome/free-brands-svg-icons';
+import { faReact, faDocker, faPython, faGit, faGitlab,} from '@fortawesome/free-brands-svg-icons';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
     "React",
+    "HTML",
+    "CSS",
     "TypeScript",
     "JavaScript",
-    "HTML5",
-    "CSS3",
-    "SASS",
+    "Vite",
     "Flask",
     "Python",
     "SQL",
-    "PostgreSQL",
-    "Postman"
+    "npm"
 ];
 
 const labelsSecond = [
     "Git",
-    "GitHub Actions",
+    "Gitlab",
     "Docker",
     "AWS",
-    "Azure",
+    "Active Directory",
     "Linux",
-    "Snowflake",
-    "Pandas",
-    "Selenium",
+
 ];
 
 const labelsThird = [
-    "OpenAI",
-    "Groq",
-    "LangChain",
-    "Qdrant",
-    "Hugging Face",
-    "LlamaIndex",
-    "Streamlit",
+    "Python",
+    "R",
+    "CSV",
+    "JSON",
+    "C#/.NET Core",
+    "Power BI",
+    "Excel Power Query"
 ];
 
 function Expertise() {
@@ -50,9 +47,8 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>Full Stack Web Development</h3>
-                    <p>I have built a diverse array of web applications from scratch using modern technologies such as React and Flask. I have a strong proficiency in the SDLC process and frontend + backend development.</p>
+                    <p>I have built many production-grade web applications using modern technologies such as React, Flask, Next.Js, Vite, and more. I have a strong proficiency in frontend + backend development and a deep understanding of the software development life cycle.</p>
                     <div className="flex-chips">
-                        <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
@@ -60,11 +56,10 @@ function Expertise() {
                 </div>
 
                 <div className="skill">
-                    <FontAwesomeIcon icon={faDocker} size="3x"/>
+                    <FontAwesomeIcon icon={faGitlab} size="3x"/>
                     <h3>DevOps & Automation</h3>
-                    <p>Once the application is built, I help clients set up DevOps testing, CI/CD pipelines, and deployment automation to support the successful Go-Live.</p>
+                    <p>Proficiency in Gitlab and DevOps techniques allows me to develop CI/CD pipelines and automated deployment to support projects long past their Go-Live.</p>
                     <div className="flex-chips">
-                        <span className="chip-title">Tech stack:</span>
                         {labelsSecond.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
@@ -73,10 +68,9 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
-                    <h3>GenAI & LLM</h3>
-                    <p>Stay relevant in the market by leveraging the latest AI models in your projects. I have professional experience building enterprise grade GenAI-enabled solutions to empower intelligent decision making.</p>
+                    <h3>Data Visualization</h3>
+                    <p>I can levereage new and old technologies to parse and prepare large datasets whenever, wherever, and however you need.</p>
                     <div className="flex-chips">
-                        <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
