@@ -19,7 +19,7 @@ function Project() {
             <div className="project">
                 <img src={mock10} className="zoom" alt="thumbnail" width="100%"/>
                 <h2>ES Failure Visualization Application </h2>
-                <p>Developed a data visualization program to represent ES failures on a LTCC board using C#. This proprietary application is currently live on BOSCH Anderson's production floor.</p>
+                <p>Developed a data visualization program to represent ES failures on an LTCC board using C#. This proprietary application is currently live on BOSCH Anderson's production floor.</p>
             </div>
             <div className="project">
                 <img src={mock09} className="zoom" alt="thumbnail" width="100%"/>
@@ -29,7 +29,7 @@ function Project() {
             <div className="project">
                <img src={mock08} className="zoom" alt="thumbnail" width="100%"/>
                 <h2>Manufacturing Engineering Projects</h2>
-                <p>Performed various manufacturing engineering duties including: designing and building components of Operator work stations, creating specialized tables, carts, monitor mounts, and more using FMS, Testing equipment using a Werth measuring machine, and many more activities inside BOSCH's Class 100 and Class 10,000 clean rooms.</p>
+                <p>Performed various manufacturing engineering duties including: designing and building components of operator work stations, creating specialized equipment with FMS, testing equipment using a Werth measuring machine, and many more activities inside BOSCH's class 100 and class 10,000 clean rooms.</p>
             </div>
             <div className="project">
                <img src={mock07} className="zoom" alt="thumbnail" width="100%"/>

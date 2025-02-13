@@ -7,6 +7,15 @@
 .contact-form {
   padding-top: 20px;
 
+  input,
+  textarea {
+    color: #050f0b; // Ensure text is dark and visible
+  }
+
+  .MuiOutlinedInput-root {
+    background-color: white; // Ensure background is white for contrast
+  }
+
   button {
     float: right;
     background-color: white;
@@ -18,8 +27,8 @@
     color: white;
   }
 
-  fieldset {
-    background-color: white;
+  .MuiOutlinedInput-notchedOutline {
+    border-color: #050f0b !important;
   }
 }
 

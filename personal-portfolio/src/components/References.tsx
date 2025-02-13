@@ -18,7 +18,7 @@ const references = [
     {
         name: "Chris Plaue",
         image: "../assets/images/michael_brown.jpg",
-        description: "Principal lecturer and Undergraduate Coordinator at Clemson University. My academic advisor, former professor, former boss. Taught me about pointers during my first semester at Clemson.",
+        description: "Principal lecturer and Undergraduate Coordinator at Clemson University. My academic advisor, former professor, and former boss. Taught me about pointers during my first semester at Clemson.",
         linkedin: "https://www.linkedin.com/in/chris-plaue-9431944"
     }
 ];
