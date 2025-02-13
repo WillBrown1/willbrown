@@ -1,36 +1,86 @@
-# Personal Portfolio Website in React
+# Developer Portfolio Template 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
+## What is this?
 
-Built using:
+This simple portfolio template is designed to showcase your past projects, career history, skill sets, and more.
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+View the [Demo](https://yujisatojr.github.io/react-portfolio-template/).
 
-In the /personal-portfolio, you can run:
+**This template is free to use, and no attribution is required.** You can fork or download this repository to customize it for your own use. Please don't forget to leave a ⭐ if you like this portfolio!
 
-### `npm start`
+![screenshot](./src/assets//images/screenshot.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+✅ Open source (free to use, no attribution required)  
+✅ Responsive design & mobile-friendly  
+✅ Supports both dark and light modes  
+✅ Highly customizable multi-component layout  
+✅ Built with modern technologies (React, TypeScript, JavaScript, and SCSS)  
 
-### `npm test`
+## Quick Setup
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Ensure you have [Node.js](https://nodejs.org/) installed. Check your installation by running:
 
-### `npm run build`
+    ```bash
+    node -v
+    ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. In the project directory, install dependencies:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    ```bash
+    npm install
+    ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Start the development server:
+
+    ```bash
+    npm start
+    ```
+
+4. Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
+
+5. Customize the template by navigating to the `/src/components` directory. Modify texts, pictures, and other information as needed.
+
+The page will reload if you make edits, and you will see any lint errors in the console.
+
+If you are interested in creating a mockup image like the ones from the personal projects section, I recommend [Genmoo](https://gemoo.com/tools/browser-mockup-generator/). This website lets you generate sleek looking browser mockups for free.
+
+## Deployment
+
+You can choose your preferred service (e.g., [Netlify](https://www.netlify.com/), [Render](https://render.com/), [Heroku](https://www.heroku.com/)) for deployment. One of the easiest ways to host this portfolio is using GitHub Pages. Follow the instructions below for a production deploy.
+
+1. **Set Up GitHub Repository**
+
+    Create a new repository on GitHub for your portfolio app.
+
+2. **Configure `package.json`**
+
+    Edit the following properties in your `package.json` file:
+
+    ```json
+    {
+        "homepage": "https://yourusername.github.io/your-repo-name",
+        "scripts": {
+            "predeploy": "npm run build",
+            "deploy": "gh-pages -d build",
+            ...
+        }
+    }
+    ```
+
+    Replace `yourusername` with your GitHub username and `your-repo-name` with the name of your GitHub repository.
+
+3. **Deploy to GitHub Pages**
+
+    Run the following command to deploy your app:
+
+    ```bash
+    npm run deploy
+    ```
+
+4. **Access Your Deployed App**
+
+    After successfully deploying, you can access your app at `https://yourusername.github.io/your-repo-name`.
