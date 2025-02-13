@@ -2,7 +2,7 @@
   "name": "react-portfolio-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://WillBrown1.github.io/willbrown",
+  "homepage": "https://Willbrown1.github.io/willbrown",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
@@ -26,9 +26,6 @@
     "sass": "^1.77.4",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
-  },
-  "devdependencies":{
-
   },
   "scripts": {
     "start": "react-scripts start",
