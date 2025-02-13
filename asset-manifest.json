@@ -1,28 +1,23 @@
 {
   "files": {
     "main.css": "/willbrown/static/css/main.ef66e303.css",
-    "main.js": "/willbrown/static/js/main.a867e2f0.js",
+    "main.js": "/willbrown/static/js/main.e2e4efca.js",
     "static/js/453.b05d8aa5.chunk.js": "/willbrown/static/js/453.b05d8aa5.chunk.js",
-    "static/media/mock10.png": "/willbrown/static/media/mock10.2d05b02ba569a430a255.png",
-    "static/media/mock09.png": "/willbrown/static/media/mock09.e18677ccfc932e52d754.png",
-    "static/media/mock08.png": "/willbrown/static/media/mock08.13f46873fdbd382f4b76.png",
-    "static/media/mock04.png": "/willbrown/static/media/mock04.f7b5679efade992a078c.png",
-    "static/media/mock07.png": "/willbrown/static/media/mock07.3f1110f482232b33c6a2.png",
-    "static/media/mock05.png": "/willbrown/static/media/mock05.4faafa70d200d1519a34.png",
+    "static/media/Puncher-insides.jpg": "/willbrown/static/media/Puncher-insides.4ac7ce994f5aec98508e.jpg",
+    "static/media/LBVis.jpg": "/willbrown/static/media/LBVis.8400787709b423878637.jpg",
+    "static/media/Puncher.jpg": "/willbrown/static/media/Puncher.966f6c8084a1212dc0e7.jpg",
+    "static/media/RTLAndon.png": "/willbrown/static/media/RTLAndon.9cb028850e0991bb9552.png",
     "static/media/background.png": "/willbrown/static/media/background.d9f00dfe81248e48178b.png",
-    "static/media/mock06.png": "/willbrown/static/media/mock06.ea816617e0d0fa0f63ca.png",
     "static/media/projectWebsite.png": "/willbrown/static/media/projectWebsite.158df3860c6a46657b64.png",
     "static/media/avatar.png": "/willbrown/static/media/avatar.cc1dded129d30be77f44.png",
-    "static/media/mock02.png": "/willbrown/static/media/mock02.bced48ae9cdda3acf1a3.png",
-    "static/media/mock03.png": "/willbrown/static/media/mock03.a4600719e0b5d2a3155b.png",
     "static/media/background-dark.webp": "/willbrown/static/media/background-dark.2d7d43105860465f1540.webp",
     "index.html": "/willbrown/index.html",
     "main.ef66e303.css.map": "/willbrown/static/css/main.ef66e303.css.map",
-    "main.a867e2f0.js.map": "/willbrown/static/js/main.a867e2f0.js.map",
+    "main.e2e4efca.js.map": "/willbrown/static/js/main.e2e4efca.js.map",
     "453.b05d8aa5.chunk.js.map": "/willbrown/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef66e303.css",
-    "static/js/main.a867e2f0.js"
+    "static/js/main.e2e4efca.js"
   ]
 }
