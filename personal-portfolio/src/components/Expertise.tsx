@@ -13,9 +13,9 @@ const labelsFirst = [
     "JavaScript",
     "Vite",
     "Flask",
-    "Python",
     "SQL",
-    "npm"
+    "npm",
+    "Gulp"
 ];
 
 const labelsSecond = [
@@ -24,6 +24,7 @@ const labelsSecond = [
     "AWS",
     "Active Directory",
     "Linux",
+    "Microsoft Office Suite"
 
 ];
 
