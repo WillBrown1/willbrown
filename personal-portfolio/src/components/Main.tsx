@@ -22,10 +22,11 @@ function Main() {
           <p>
             <Typewriter
               options={{
-                strings: ["Full Stack Engineer", "Software Developer", "Tech Enthusiast", "Problem Solver"],
+                strings: ["Full Stack Developer", "Data Analyst", "Application Designer", "Problem Solver"],
+                delay:30,
                 autoStart: true,
                 loop: true,
-                deleteSpeed: 50,
+                deleteSpeed: 18
               }}
             />
           </p>
