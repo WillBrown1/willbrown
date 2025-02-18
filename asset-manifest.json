@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/willbrown/static/css/main.032a6af0.css",
-    "main.js": "/willbrown/static/js/main.7ea92a4a.js",
+    "main.js": "/willbrown/static/js/main.f026a27f.js",
     "static/js/453.b05d8aa5.chunk.js": "/willbrown/static/js/453.b05d8aa5.chunk.js",
     "static/media/Puncher-insides.jpg": "/willbrown/static/media/Puncher-insides.4ac7ce994f5aec98508e.jpg",
     "static/media/LBVis.jpg": "/willbrown/static/media/LBVis.8400787709b423878637.jpg",
@@ -11,13 +11,14 @@
     "static/media/projectWebsite.png": "/willbrown/static/media/projectWebsite.158df3860c6a46657b64.png",
     "static/media/avatar.png": "/willbrown/static/media/avatar.cc1dded129d30be77f44.png",
     "static/media/background-dark.webp": "/willbrown/static/media/background-dark.2d7d43105860465f1540.webp",
+    "static/media/dexcomAPI.png": "/willbrown/static/media/dexcomAPI.8eda89635aff3633d8fd.png",
     "index.html": "/willbrown/index.html",
     "main.032a6af0.css.map": "/willbrown/static/css/main.032a6af0.css.map",
-    "main.7ea92a4a.js.map": "/willbrown/static/js/main.7ea92a4a.js.map",
+    "main.f026a27f.js.map": "/willbrown/static/js/main.f026a27f.js.map",
     "453.b05d8aa5.chunk.js.map": "/willbrown/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.032a6af0.css",
-    "static/js/main.7ea92a4a.js"
+    "static/js/main.f026a27f.js"
   ]
 }
